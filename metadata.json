@@ -1,0 +1,7 @@
+{
+  "name": "ReRoom AI",
+  "description": "Visualize your dream home with advanced AI. Upload a photo and redesign your space using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
